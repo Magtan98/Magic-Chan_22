@@ -45,6 +45,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: gonzalomao
 - :man: Magtan98
+- 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
